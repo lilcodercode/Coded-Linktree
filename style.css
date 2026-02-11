@@ -1,0 +1,30 @@
+img {
+  border-radius: 10px;
+}
+
+p {
+  font-family: "Trebuchet MS"
+  font-size: 20px;
+  color: black
+}
+
+body {
+  background-color: yellowgreen;
+  color: white;
+  font-family: "Trebuchet MS";
+  text-align: center;
+}
+
+a {
+  background-color: rebeccapurple;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: white;
+}
+ h1 {
+   color: blue
+ }
